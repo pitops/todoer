@@ -3105,10 +3105,10 @@ immediate@^3.2.2:
   resolved "https://registry.yarnpkg.com/immediate/-/immediate-3.2.3.tgz#d140fa8f614659bd6541233097ddaac25cdd991c"
   integrity sha1-0UD6j2FGWb1lQSMwl92qwlzdmRw=
 
-immer@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/immer/-/immer-3.1.2.tgz#1f24f2e25433f5ff168a1ff6c8c6366d2106e61a"
-  integrity sha512-pi8JuvJ9c+98DlpDms/o0YLLg5khP8Qzjd8CtIGc4qVm2eoLdQGivJL266nWccofKT/oBSxnhAh/o+nmOXtLXw==
+immer@^7.0.14:
+  version "7.0.14"
+  resolved "https://registry.yarnpkg.com/immer/-/immer-7.0.14.tgz#3e605f8584b15a9520d2f2f3fda9441cc9170d25"
+  integrity sha512-BxCs6pJwhgSEUEOZjywW7OA8DXVzfHjkBelSEl0A+nEu0+zS4cFVdNOONvt55N4WOm8Pu4xqSPYxhm1Lv2iBBA==
 
 import-fresh@^2.0.0:
   version "2.0.0"
